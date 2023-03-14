@@ -1,1 +1,1 @@
-Readme note goes here
+A script that creates an alias.
